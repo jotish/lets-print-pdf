@@ -1,0 +1,6 @@
+Let's Print PDF is a companion app for Let's Print Droid.
+Let's Print PDF acts as a PDF rendering engine, allowing Let's Print Droid to generate PCL and Postscript for PDF files. (Similar to GhostScript.)
+To print a PDF file, you must install and run Let's Print Droid. By itself, Let's Print PDF acts only as a PDF viewer.
+Let's Print PDF is a minor variation of the MuPDF Android Project.
+This app is distributed under the GNU GPL version 3 license.
+The source for this app can be found at http://code.google.com/p/lets-print-pdf   
