@@ -28,7 +28,8 @@ Well wouldn’t it be great if some industry heavy-weight created a unified stan
 * How do I print a file? *
 
 You can select your file from the built-in file browser or you can “Share” the file from another file browsing app like Astro File Browser. For more ways to initiate a print, press Menu->Browser Mode.
-It’s asking for a QR code. Where is the QR code?
+
+* It’s asking for a QR code. Where is the QR code? *
 
 The QR code it is asking for appears when you do a Test Print. This is just a short-cut mechanism for other users of the same printer; to save them the technical hassles of IP addresses and protocols. If you are just setting the app up for the first time then you have no QR code until you do a test print successfully. If other users will be using the printer, then be nice and tape the test sheet near the printer.
 
