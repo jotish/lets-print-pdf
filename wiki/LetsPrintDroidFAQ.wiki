@@ -1,6 +1,6 @@
 #summary FAQ
 
-= FAQ - Let’s Print Droid (LPD) by BlackSpruceSoftware =
+= FAQ - Let’s Print Droid (LPD) by BlackSpruce Software =
 
 This is the FAQ file for the Android Printing app "Let's Print Droid" and its companion app Let's Print PDF. Both apps are free and can be found on the Google Play app site.
 
